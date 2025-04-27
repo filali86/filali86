@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 About Me
+# About Me
 <img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20Developer;Web%20Enthusiast;Passionate%20about%20Crafting%20Websites;Always%20Learning%20%F0%9F%92%AB&font=Fira%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&size=22&pause=1000&duration=3000" alt="Typing SVG" />
 
 ---

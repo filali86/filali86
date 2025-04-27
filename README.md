@@ -6,8 +6,13 @@
 ---
 
 ## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thesilent_maru) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filali-marwan/)
+## 🌐 Connect with Me
+<a href="https://instagram.com/thesilent_maru" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.linkedin.com/in/filali-marwan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ---
 

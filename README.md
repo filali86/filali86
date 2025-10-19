@@ -12,17 +12,25 @@ Hi there! I'm **Marwan**, a passionate IT professional with hands-on experience 
 - **IT Service Management** - Documented workflows and ticketing in Jira Service Management
 
 #### 🛠️ Technical Toolkit:
-`Windows Server 2022` `Active Directory` `Group Policy` `VMware` `PowerShell` 
-`TCP/IP` `DNS` `DHCP` `Network Troubleshooting` `Jira` `GitHub`
+**Operating Systems:** `Windows Server 2022` `Windows 10/11` `Linux/Ubuntu`
 
-#### 📜 Certifications:
-- **Google IT Support Professional Certificate**
-- **ALX Professional Foundation Certificate**
+**Networking:** `TCP/IP` `DNS` `DHCP` `Network Troubleshooting` `Remote Desktop`
+
+**Active Directory:** `User Management` `Group Policy` `Security Groups` `Organizational Units`
+
+**IT Management:** `Jira Service Management` `Zendesk` `Ticketing Systems` `Documentation`
+
+**Virtualization & Tools:** `VMware` `VirtualBox` `PowerShell` `GitHub` `Visual Studio Code`
+
+#### 📜 Certifications & Education:
+- **Google IT Support Professional Certificate** - Google
+- **ALX Professional Foundation Certificate** - ALX
+- **Currently studying for ALX Cybersecurity Certification** - ALX
+- **Professional Bachelor's Degree in Information Technology**
+- **Diploma in Digital Infrastructure and Cybersecurity**
 
 #### 📂 Portfolio & Projects:
 **👉 [View my detailed project portfolio & resume](https://filali-portfolio.vercel.app)**
 
 *Open to entry-level IT Support, Help Desk, and Junior System Administrator roles.*
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
